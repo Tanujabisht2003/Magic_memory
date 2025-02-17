@@ -1,5 +1,5 @@
 # Getting Started with Create React App
 
-To rum an app :
+To run an app :
 
 npm start
